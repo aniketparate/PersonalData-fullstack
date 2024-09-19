@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PO4ZoFhRrk7vdaquTvEICAGXfqPsZ1W7z4CK2GlmhlM=",
+  "Source": "PlayersDataWebApi",
+  "BasePath": "_content/PlayersDataWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

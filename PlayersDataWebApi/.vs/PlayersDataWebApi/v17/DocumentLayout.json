@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC0D5EC-9990-4023-AAC1-D9C1DF031D7D}|PlayersDataWebApi.csproj|d:\\github\\playerdata-fullstack\\playersdatawebapi\\controllers\\personalinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC0D5EC-9990-4023-AAC1-D9C1DF031D7D}|PlayersDataWebApi.csproj|solutionrelative:controllers\\personalinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC0D5EC-9990-4023-AAC1-D9C1DF031D7D}|PlayersDataWebApi.csproj|d:\\github\\playerdata-fullstack\\playersdatawebapi\\dao\\personalinfoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC0D5EC-9990-4023-AAC1-D9C1DF031D7D}|PlayersDataWebApi.csproj|solutionrelative:dao\\personalinfoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC0D5EC-9990-4023-AAC1-D9C1DF031D7D}|PlayersDataWebApi.csproj|d:\\github\\playerdata-fullstack\\playersdatawebapi\\dao\\ipersonalinfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC0D5EC-9990-4023-AAC1-D9C1DF031D7D}|PlayersDataWebApi.csproj|solutionrelative:dao\\ipersonalinfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC0D5EC-9990-4023-AAC1-D9C1DF031D7D}|PlayersDataWebApi.csproj|d:\\github\\playerdata-fullstack\\playersdatawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC0D5EC-9990-4023-AAC1-D9C1DF031D7D}|PlayersDataWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC0D5EC-9990-4023-AAC1-D9C1DF031D7D}|PlayersDataWebApi.csproj|d:\\github\\playerdata-fullstack\\playersdatawebapi\\models\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC0D5EC-9990-4023-AAC1-D9C1DF031D7D}|PlayersDataWebApi.csproj|solutionrelative:models\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonalInfoController.cs",
+              "DocumentMoniker": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\Controllers\\PersonalInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonalInfoController.cs",
+              "ToolTip": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\Controllers\\PersonalInfoController.cs",
+              "RelativeToolTip": "Controllers\\PersonalInfoController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAcwGAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:21:55.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA7wCgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:12:18.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonalInfoImpl.cs",
+              "DocumentMoniker": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\DAO\\PersonalInfoImpl.cs",
+              "RelativeDocumentMoniker": "DAO\\PersonalInfoImpl.cs",
+              "ToolTip": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\DAO\\PersonalInfoImpl.cs",
+              "RelativeToolTip": "DAO\\PersonalInfoImpl.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAkwK8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:48:56.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPersonalInfoDao.cs",
+              "DocumentMoniker": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\DAO\\IPersonalInfoDao.cs",
+              "RelativeDocumentMoniker": "DAO\\IPersonalInfoDao.cs",
+              "ToolTip": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\DAO\\IPersonalInfoDao.cs",
+              "RelativeToolTip": "DAO\\IPersonalInfoDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:48:40.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonalInfo.cs",
+              "DocumentMoniker": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\Models\\PersonalInfo.cs",
+              "RelativeDocumentMoniker": "Models\\PersonalInfo.cs",
+              "ToolTip": "D:\\Github\\PlayerData-fullstack\\PlayersDataWebApi\\Models\\PersonalInfo.cs",
+              "RelativeToolTip": "Models\\PersonalInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:43:41.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
